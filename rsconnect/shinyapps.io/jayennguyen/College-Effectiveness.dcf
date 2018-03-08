@@ -1,0 +1,12 @@
+name: College-Effectiveness
+title: College-Effectiveness
+username:
+account: jayennguyen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 293680
+bundleId: 1253830
+url: https://jayennguyen.shinyapps.io/College-Effectiveness/
+when: 1520282809.2584
+asMultiple: FALSE
+asStatic: FALSE

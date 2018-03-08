@@ -1,0 +1,12 @@
+name: test4
+title: Test4
+username:
+account: thomasnguyen1519
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 296024
+bundleId: 1259847
+url: https://thomasnguyen1519.shinyapps.io/test4/
+when: 1520536693.11532
+asMultiple: FALSE
+asStatic: FALSE
